@@ -10,6 +10,9 @@ Recordings are available at:
 Notes about the recordings at:
 - [DreyfusNotes.rtf](https://github.com/otnemrasordep/heideggerando/blob/master/DreyfusNotes.rtf)
 
+Digital english version of ***Seit und Zeit*** [1962], translated by John Macquarrie and Edward Robinson:
+- [MartinHeidegger_BeingAndTime.pdf](https://github.com/otnemrasordep/heideggerando/blob/master/Martin%20Heidegger_Being%20and%20time.pdf)
+
 Useful and interesting resources:
 - https://plato.stanford.edu/entries/heidegger/
 - https://www.theguardian.com/commentisfree/belief/2009/jun/05/heidegger-philosophy
