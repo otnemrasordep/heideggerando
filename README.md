@@ -1,6 +1,6 @@
 # About Being & Time
 
-Some notes and reflections about **Hubert Dreyfus**' [1929-2017] philosophy course from UC Berkeley on **Martin Heidegger**'s [1889-1976] ***Seit und Zeit*** [1927]. These men's ideas about the impact and (possible/impossible) outcomes of Artifical Intelligence are particularly relevant today and worth of some serious consideration.
+Some notes and reflections about **Hubert Dreyfus**' [1929-2017] philosophy course from UC Berkeley on **Martin Heidegger**'s [1889-1976] ***Sein und Zeit*** [1927]. These men's ideas about the impact and (possible/impossible) outcomes of Artifical Intelligence are particularly relevant today and worth of some serious consideration.
 
 ---------
 
@@ -10,7 +10,7 @@ Recordings are available at:
 Notes about the recordings at:
 - [DreyfusNotes.rtf](https://github.com/otnemrasordep/heideggerando/blob/master/DreyfusNotes.rtf)
 
-Digital english version of ***Seit und Zeit*** [1962], translated by John Macquarrie and Edward Robinson:
+Digital english version of ***Sein und Zeit*** [1962], translated by John Macquarrie and Edward Robinson:
 - [MartinHeidegger_BeingAndTime.pdf](https://github.com/otnemrasordep/heideggerando/blob/master/Martin%20Heidegger_Being%20and%20time.pdf)
 
 Useful and interesting resources:
