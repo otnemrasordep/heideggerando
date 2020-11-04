@@ -7,6 +7,9 @@ Some notes and reflections about **Hubert Dreyfus**' [1929-2017] philosophy cour
 Recordings are available at: 
 - https://www.youtube.com/playlist?list=PLO1PGfOvgnmrqnTx_gHSZrfhCcXHkYFWG. 
 
+Notes about the recordings at:
+- [DreyfusNotes.rtf](https://github.com/otnemrasordep/heideggerando/blob/master/DreyfusNotes.rtf)
+
 Useful and interesting resources:
 - https://plato.stanford.edu/entries/heidegger/
 - https://www.theguardian.com/commentisfree/belief/2009/jun/05/heidegger-philosophy
