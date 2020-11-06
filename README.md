@@ -19,3 +19,7 @@ Useful and interesting resources:
 - https://plato.stanford.edu/entries/heidegger/
 - https://www.theguardian.com/commentisfree/belief/2009/jun/05/heidegger-philosophy
 - https://faculty.georgetown.edu/blattnew/heid/terms.htm
+
+Hubert Dreyfus' clips about his views on AI:
+- https://youtu.be/SUZUbYCBtGI
+- https://youtu.be/oUcKXJTUGIE
