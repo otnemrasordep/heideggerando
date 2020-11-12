@@ -20,8 +20,8 @@ Useful and interesting resources:
 - https://www.theguardian.com/commentisfree/belief/2009/jun/05/heidegger-philosophy
 - https://faculty.georgetown.edu/blattnew/heid/terms.htm
 
-AI community reaction to Dreyfus criticism:
-- ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-154.pdf
+Early AI community's reaction to Dreyfus criticism:
+- https://dspace.mit.edu/handle/1721.1/6084
 
 Hubert Dreyfus' clips about his views on AI:
 - https://youtu.be/SUZUbYCBtGI
