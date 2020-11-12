@@ -26,4 +26,4 @@ Early AI community's reaction to Dreyfus criticism:
 Clips about Hubert Dreyfus' views on AI:
 - https://youtu.be/SUZUbYCBtGI
 - https://youtu.be/oUcKXJTUGIE
-- https://www.youtube.com/watch?v=B6Oigy1i3W4
+- https://youtu.be/B6Oigy1i3W4
