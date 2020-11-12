@@ -23,6 +23,7 @@ Useful and interesting resources:
 Early AI community's reaction to Dreyfus criticism:
 - https://dspace.mit.edu/handle/1721.1/6084
 
-Hubert Dreyfus' clips about his views on AI:
+Clips about Hubert Dreyfus' views on AI:
 - https://youtu.be/SUZUbYCBtGI
 - https://youtu.be/oUcKXJTUGIE
+- https://www.youtube.com/watch?v=B6Oigy1i3W4
